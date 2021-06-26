@@ -10,7 +10,6 @@ spec:
     htpasswd:
       fileData:
         name: htpasswd
-
   - name: OPENTLC LDAP
     challenge: true
     login: true
